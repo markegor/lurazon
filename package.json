@@ -1,0 +1,19 @@
+{
+  "name": "lurazon",
+  "version": "1.0.0",
+  "description": "Integrate \"lurazon\" to your websites and applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markegor/lurazon.git"
+  },
+  "author": "Egor Markevich markegoor@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markegor/lurazon/issues"
+  },
+  "homepage": "https://github.com/markegor/lurazon#readme"
+}
